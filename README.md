@@ -2,7 +2,7 @@
 
 ## Descripcion general
 <p style="text-align: justify;">
-    
+    NeuroEvolución es un proyecto que desarrolla una red neuronal capaz de mapear entornos desconocidos utilizando algoritmos genéticos para su entrenamiento. A través de un enfoque evolutivo, la red combina valores entre sus neuronas para optimizar su capacidad de adaptación y mejorar su desempeño de manera autónoma, inspirándose en los principios de la evolución natural.
 </p>
 
 ## Tecnologías
@@ -19,6 +19,9 @@
 * <p style="text-align: justify;"> Mapa: Clase que define el mapa.<p>
 * <p style="text-align: justify;"> Sensores: Clase que define los sensores.<p>
 * <p style="text-align: justify;"> Usuario: Clase que define al objeto explorador.<p>
+
+## Algoritmo Genético
+<p align="center"><img src="imagenes\Genetico.gif" width=500 height=300></img><br>Gif algoritmo genético</p>
 
 ## Muestra de funcionamiento
 <p align="center"><img src="imagenes\Entrenamiento.gif" width=300 height=300></img><br>Gif del entrenamiento</p>
