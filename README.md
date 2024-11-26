@@ -1,4 +1,4 @@
-# NeuroEvlocion
+# NeuroEvolucion
 
 ## Descripcion general
 <p style="text-align: justify;">
